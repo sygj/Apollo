@@ -1,6 +1,7 @@
 public class User {
 	private String name;
 	private int age;
+	private String fixUp;
 
 	public String getName() {
 		return name;
