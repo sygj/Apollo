@@ -1,7 +1,7 @@
 public class User {
 	private String name;
 	private int age;
-	private String fixUp;
+	private String fixUpmaster;
 
 	public String getName() {
 		return name;
